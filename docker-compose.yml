@@ -1,0 +1,9 @@
+version: '18.14.2'
+
+services:
+  app:
+    image: ipactconsult/nodejspipeline
+    container_name: nodejspipeline
+    restart: on-failure
+    ports:
+      - "80:5555"

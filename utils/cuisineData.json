@@ -1,0 +1,273 @@
+{
+    "Cuisine européenne": [
+      "Cuisine albanaise",
+      "Cuisine allemande",
+      {
+        "Cuisine bavaroise": []
+      },
+      "Cuisine autrichienne",
+      "Cuisine basque",
+      "Cuisine belge",
+      "Cuisine britannique",
+      {
+        "Cuisine anglaise": [],
+        "Cuisine écossaise": [],
+        "Cuisine galloise": []
+      },
+      "Cuisine bulgare",
+      "Cuisine chypriote",
+      "Cuisine danoise",
+      "Cuisine espagnole",
+      {
+        "Cuisine galicienne": []
+      },
+      "Cuisine finlandaise",
+      "Cuisine française",
+      {
+        "Cuisine alsacienne": [],
+        "Cuisine angevine": [],
+        "Cuisine bourguignonne": [],
+        "Cuisine gersoise": [],
+        "Cuisine lyonnaise": [],
+        "Cuisine et spécialités du Nord-Pas-de-Calais": []
+      },
+      "Cuisine grecque",
+      "Cuisine hongroise",
+      "Cuisine italienne",
+      "Cuisine irlandaise",
+      "Cuisine islandaise",
+      "Cuisine lituanienne",
+      "Cuisine luxembourgeoise",
+      "Cuisine macédonienne",
+      "Cuisine maltaise",
+      "Cuisine monténégrine",
+      "Cuisine néerlandaise",
+      "Cuisine norvégienne",
+      "Cuisine polonaise",
+      "Cuisine portugaise",
+      "Cuisine roumaine et moldave",
+      "Cuisine russe",
+      "Cuisine serbe",
+      "Cuisine slovaque",
+      "Cuisine suédoise",
+      "Cuisine suisse",
+      "Cuisine tchèque",
+      "Cuisine ukrainienne"
+    ],
+    "Gastronomie en Amérique": {
+      "Gastronomie en Amérique du Nord": [
+        "Cuisine des États-Unis",
+        {
+          "Cuisine amérindienne": [],
+          "Cuisine amish": [],
+          "Cuisine cadienne": [],
+          "Cuisine californienne": [],
+          "Cuisine texane": [],
+          "Cuisine virginienne": []
+        },
+        "Cuisine canadienne",
+        {
+          "Cuisine acadienne": [],
+          "Cuisine inuite": [],
+          "Cuisine québécoise": []
+        },
+        "Cuisine mexicaine"
+      ],
+      "Gastronomie en Amérique centrale et Antilles": [
+        "Cuisine antillaise",
+        {
+          "Cuisine d'Antigua-et-Barbuda": [],
+          "Cuisine des Bahamas": [],
+          "Cuisine de Barbade": [],
+          "Cuisine cubaine": [],
+          "Cuisine dominicaine": [],
+          "Cuisine de Dominique": [],
+          "Cuisine de Grenade": [],
+          "Cuisine haïtienne": [],
+          "Cuisine jamaïcaine": [],
+          "Cuisine de Saint-Christophe-et-Niévès": [],
+          "Cuisine de Saint-Vincent-et-les-Grenadines": [],
+          "Cuisine de Sainte-Lucie": [],
+          "Cuisine de Trinité-et-Tobago": []
+        },
+        "Cuisine bélizienne",
+        "Cuisine costaricaine",
+        "Cuisine guatémaltèque",
+        "Cuisine du Honduras",
+        "Cuisine nicaraguayenne",
+        "Cuisine panaméenne",
+        "Cuisine salvadorienne"
+      ],
+      "Gastronomie en Amérique du Sud": [
+        "Cuisine argentine",
+        "Cuisine bolivienne",
+        "Cuisine brésilienne",
+        "Cuisine chilienne",
+        "Cuisine colombienne",
+        "Cuisine équatorienne",
+        "Cuisine guyanaise",
+        "Cuisine guyanienne",
+        "Cuisine paraguayenne",
+        "Cuisine péruvienne",
+        "Cuisine surinamienne",
+        "Cuisine uruguayenne",
+        "Cuisine vénézuélienne"
+      ]
+    },
+    "Gastronomie africaine": {
+      "Gastronomie en Afrique du Nord": [
+        "Cuisine égyptienne",
+        "Cuisine soudanaise",
+        "Cuisine malienne",
+        "Cuisine nigérienne",
+        "Cuisine tchadienne",
+        {
+          "Cuisine des pays du Maghreb": [
+            {
+              "Cuisine algérienne": [],
+              "Cuisine berbère": [],
+              "Cuisine libyenne": [],
+              "Cuisine mauritanienne": [],
+              "Cuisine marocaine": [],
+              "Cuisine tunisienne": []
+            }
+          ]
+        },
+        "Cuisine sénégalaise"
+      ],
+      "Gastronomie en Afrique centrale": [
+        "Cuisine burundaise",
+        "Cuisine camerounaise",
+        "Cuisine centrafricaine",
+        "Cuisine congolaise",
+        "Cuisine équatoguinéenne",
+        "Cuisine gabonaise",
+        "Cuisine ougandaise",
+        "Cuisine rwandaise"
+      ],
+      "Gastronomie en Afrique australe": [
+        "Cuisine sud-africaine",
+        "Cuisine angolaise",
+        "Cuisine botswanaise",
+        "Cuisine lesothane",
+        "Cuisine malawite",
+        "Cuisine namibienne",
+        "Cuisine swazilandaise",
+        "Cuisine zambienne",
+        "Cuisine zimbabwéenne"
+      ],
+      "Gastronomie en Afrique de l'Ouest": [
+        "Cuisine béninoise",
+        "Cuisine bissau-guinéenne",
+        "Cuisine burkinabé",
+        "Cuisine équatoguinéenne",
+        "Cuisine ghanéenne",
+        "Cuisine guinéenne",
+        "Cuisine ivoirienne",
+        "Cuisine libérienne",
+        "Cuisine nigériane",
+        "Cuisine de Sao Tomé-et-Principe",
+        "Cuisine sénégalaise",
+        "Cuisine sierra-léonaise",
+        "Cuisine togolaise"
+      ],
+      "Gastronomie en Afrique de l'Est": [
+        "Cuisine djiboutienne",
+        "Cuisine érythréenne",
+        "Cuisine éthiopienne",
+        "Cuisine kényane",
+        "Cuisine somalienne",
+
+        "Cuisine tanzanienne"
+      ],
+
+    "Gastronomie en Afrique insulaire": [
+      "Cuisine malgache",
+      "Cuisine réunionnaise",
+      "Cuisine mauricienne",
+      "Cuisine comorienne"
+    ]
+    },
+    "Gastronomie en Asie": {
+      "Asie occidentale": [
+        "Cuisine arabe",
+        "Cuisine arménienne",
+        "Cuisine azerbaïdjanaise",
+        "Cuisine du Bahreïn",
+        "Cuisine des Émirats arabes unis",
+        "Cuisine géorgienne",
+        "Cuisine irakienne",
+        "Cuisine iranienne",
+        "Cuisine israélienne",
+        "Cuisine jordanienne",
+        "Cuisine du Koweït",
+        "Cuisine libanaise",
+        "Cuisine moyen-orientale",
+        "Cuisine palestinienne",
+        "Cuisine du Qatar",
+        "Cuisine saoudienne",
+        "Cuisine syrienne",
+        "Cuisine turque"
+      ],
+      "Asie centrale": [
+        "Cuisine afghane",
+        "Cuisine kazakhe",
+        "Cuisine kirghize",
+        "Cuisine ouzbèke",
+        "Cuisine russe",
+        "Cuisine tadjike",
+        "Cuisine turkmène"
+      ],
+      "Asie de l'Est": [
+        "Cuisine chinoise",
+        "Cuisine coréenne",
+        "Cuisine japonaise",
+        "Cuisine mongole",
+        "Cuisine taïwanaise"
+      ],
+      "Asie du Sud": [
+        "Cuisine du Bangladesh",
+        "Cuisine bengalie",
+        "Cuisine bhoutanaise",
+        "Cuisine indienne",
+        "Cuisine des Maldives",
+        "Cuisine népalaise",
+        "Cuisine pakistanaise"
+      ],
+      "Asie du Sud-Est": [
+        "Cuisine birmane",
+        "Cuisine de Brunei",
+        "Cuisine cambodgienne",
+        "Cuisine indonésienne",
+        "Cuisine laotienne",
+        "Cuisine malaisienne",
+        "Cuisine philippine",
+        "Cuisine singapourienne",
+        "Cuisine thaïlandaise",
+        "Cuisine du Timor oriental",
+        "Cuisine vietnamienne"
+      ]
+    },
+    "Gastronomie en Océanie": [
+      "Cuisine australienne",
+      "Cuisine des îles Cook",
+      "Cuisine hawaïenne",
+      "Cuisine fidjienne",
+      "Cuisine des Kiribati",
+      "Cuisine marshallaise",
+      "Cuisine des États fédérés de Micronésie",
+      "Cuisine de Nauru",
+      "Cuisine de Nouvelle-Calédonie",
+      "Cuisine de la Nouvelle-Zélande",
+      "Cuisine paluane",
+      "Cuisine de Papouasie-Nouvelle-Guinée",
+      "Cuisine des Salomon",
+      "Cuisine des Samoa",
+      "Cuisine de Tahiti",
+      "Cuisine des Tonga",
+      "Cuisine des Tuvalu",
+      "Cuisine de Vanuatu"
+   
+        
+      ]
+    } 
